@@ -12,7 +12,7 @@ Learn and practice within the branch of data science.
 Need for grouping to summarize customer segments.
 
 ## Completed.
-- Data cleaning and Data cleaning
+- Data cleaning and Data preprocessing
 - Imputation Missing data to KNN
 - EDA: Univariate and multivariate analysis
 - Scaling Data and PCA
