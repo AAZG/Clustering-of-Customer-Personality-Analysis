@@ -17,7 +17,7 @@ ozon3
 pyreadr 
 nhanes==0.5.1 
 fancyimpute
-scipy 
+scipy==1.6.3
 session-info 
 plotly==5.11.0
-imblearn
+imblearn==0.0
