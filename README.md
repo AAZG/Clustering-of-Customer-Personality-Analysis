@@ -29,7 +29,7 @@ Need for grouping to summarize customer segments.
 ## Participants.
 The project was carried out individually.
 
-## Puedes utilizar Deepnote para visualizar el proyecto y trabajar interactivamente con los notebooks siguiendo el enlace de este botón:
+## You can view and clone the project as well as work interactively with the notebooks in Deepnote by following the link on this button:
 [<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/@aazg/Clustering-of-Customer-Personality-Analysis-476ba5e6-eb90-4a9a-8755-c06626d1ab4d)
 
 
