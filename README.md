@@ -1,3 +1,5 @@
+[<img src="images/front_page.jpg" width="900" target="_blank" alt="Click to go to this project's GitHub repository" title="Click to go to this project's GitHub repository"/>](https://github.com/AAZG/Implementation-of-binary-classification-for-Credit-Card-Fraud-Detection)
+
 # Clustering of Customer Personality Analysis
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
